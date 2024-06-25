@@ -6,6 +6,8 @@ this proxy allows to create playlists from several providers. It is based on the
 
 The language used is Node JS, so you must install it on your system (https://nodejs.org/en/).
 
+First install py3 !
+
 Once the files are downloaded, use the `npm install` command to download the dependencies.
 
 To start the server, use the `npm start` command.
