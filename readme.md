@@ -6,11 +6,11 @@ this proxy allows to create playlists from several providers. It is based on the
 
 The language used is Node JS, so you must install it on your system (https://nodejs.org/en/).
 
-First install nodejs !
+First `sudo apt install nodejs` !
 
 Once the files are downloaded, use the `npm install` command to download the dependencies.
 
-Bevor start try npm audit fix --force
+Bevor start try `npm audit fix --force`
 
 To start the server, use the `npm start` command.
 
