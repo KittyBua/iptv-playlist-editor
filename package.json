@@ -56,7 +56,7 @@
       "migrations/**/*.js"
     ],
     "targets": [
-      "node20.15.0"
+      "node12"
     ]
   }
 }
